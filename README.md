@@ -3,6 +3,12 @@ Views
 Models
 Templates
 URL mapping
+app mapping
+Project mapping
 Apps
+Images
+Static files
+
+
 
 
