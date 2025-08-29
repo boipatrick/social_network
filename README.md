@@ -8,7 +8,10 @@ Project mapping
 Apps
 Images
 Static files
-
+Migrations 
+Commands
+make migrations
+migrate
 
 
 
